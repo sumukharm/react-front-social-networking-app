@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { signup } from "../auth";
 import { Link } from "react-router-dom";
-import SocialLogin from "./SocialLogin";
+//import SocialLogin from "./SocialLogin";
 
 class Signup extends Component {
     constructor() {
@@ -139,7 +139,6 @@ class Signup extends Component {
                 <h2 className="mt-5 mb-5">Signup</h2>
 
                 <hr />
-                <SocialLogin />
 
                 <hr />
                 <br />

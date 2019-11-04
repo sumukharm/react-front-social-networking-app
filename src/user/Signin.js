@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Link, Redirect } from "react-router-dom";
 import { signin, authenticate } from "../auth";
-import SocialLogin from "./SocialLogin";
+//import SocialLogin from "./SocialLogin";
 
 class Signin extends Component {
     constructor() {
@@ -141,7 +141,6 @@ class Signin extends Component {
             <div className="container">
                 <h2 className="mt-5 mb-5">SignIn</h2>
                 <hr />
-                <SocialLogin />
 
                 <hr />
                 <br />

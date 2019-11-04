@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\auth",
+    "\\src\\post",
+    "\\src\\user"
+  ],
+  "SelectedNode": "\\src\\user\\Signin.js",
+  "PreviewInSolutionExplorer": false
+}
